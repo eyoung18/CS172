@@ -1,4 +1,5 @@
 #ifndef QuadEQ_H_
+/*  ---Joseph---   Forgot:  #define QuadEQ_H_ */
 #include <iostream>
 #include <cmath>
 
