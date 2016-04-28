@@ -28,7 +28,7 @@ int main()
 	int j = linearSearch(list2, 6.8, 8);
 	cout << j << endl << endl;
 	string list3[] = { "holly", "andrew", "charles", "elizabeth", "suzanne", "john", "luke", "lee" };
-	string ThisIsSilly = "john";
+	string ThisIsSilly = "john";															// Joseph: Linear Searches are always silly. Binary searches are way faster.
 	int k = linearSearch(list3, ThisIsSilly, 8);
 	cout << k << endl << endl;
 }

@@ -36,7 +36,7 @@ int main()
 		v1.push_back(tempINT);
 		cout << endl;
 	}
-	cout << v1.at(0) << v1.at(1) << v1.at(2) << endl;
+	cout << v1.at(0) << v1.at(1) << v1.at(2) << endl;  // Ok. But now I'm super curious to see the rest of the vector
 	shuffle(v1);
 	cout << v1.at(0) << v1.at(1) << v1.at(2) << endl;
 }

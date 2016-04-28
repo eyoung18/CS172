@@ -58,6 +58,8 @@ template<typename T> void VECTOR<T>::clear()
 {
 	for (i = 0; i < sizeOfArray; i++)
 		Array[i] = NULL;
+
+	// Joseph: You may want to reset the size of the vector and the capacity since the vector is now empty
 }
 template<typename T> void VECTOR<T>::swap(T* vEctor)
 {

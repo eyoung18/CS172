@@ -1,0 +1,13 @@
+﻿Build started 4/28/2016 8:45:39 AM.
+     1>Project "C:\Users\jflinn18\Documents\GitHub\eyoung18\CS172\HW06\12.4 is Sorterd\12.4 is Sorterd\12.4 is Sorterd.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jflinn18\Documents\GitHub\eyoung18\CS172\HW06\12.4 is Sorterd\x64\Debug\12.4 is Sorterd.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\jflinn18\Documents\GitHub\eyoung18\CS172\HW06\12.4 is Sorterd\x64\Debug\12.4 is Sorterd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jflinn18\Documents\GitHub\eyoung18\CS172\HW06\12.4 is Sorterd\x64\Debug\12.4 is Sorterd.lib" /MACHINE:X64 x64\Debug\Source.obj
+         12.4 is Sorterd.vcxproj -> C:\Users\jflinn18\Documents\GitHub\eyoung18\CS172\HW06\12.4 is Sorterd\x64\Debug\12.4 is Sorterd.exe
+     1>Done Building Project "C:\Users\jflinn18\Documents\GitHub\eyoung18\CS172\HW06\12.4 is Sorterd\12.4 is Sorterd\12.4 is Sorterd.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.87
